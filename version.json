@@ -1,11 +1,11 @@
 {
   "version": "1.0.2",
-  "versionCode": 10000,
+  "versionCode": 10002,
   "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/v1.0.2/app-release.apk",
   "sha256": "77d9a872b0ef89aa2fb6460ce846917b946f1b0a9d9ca783718ff9c0501ec781",
   "mandatory": false,
   "notes": "Release inicial",
   "publishedAt": "2026-03-09T00:00:00Z",
   "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/v1.0.0",
-  "releaseTag": "v1.0.0"
+  "releaseTag": "v1.0.2"
 }
