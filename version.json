@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "versionCode": 10003,
-  "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/v1.0.3/app-release.apk",
-  "sha256": "8199475e05e68a9424b142de5ed70d5b024411e458f31299fa3c649d67bec2d8",
+  "version": "1.0.4",
+  "versionCode": 10004,
+  "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/v1.0.4/app-release.apk",
+  "sha256": "aaa134c198c51f0a10766e83c540216ac4df124525e0b8ccd95b2e43745e5af8",
   "mandatory": false,
-  "notes": "chore: bump version to 1.0.3",
-  "publishedAt": "2026-03-10T08:36:25Z",
-  "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/v1.0.3",
-  "releaseTag": "v1.0.3"
+  "notes": "chore: bump version to 1.0.4",
+  "publishedAt": "2026-03-10T09:33:28Z",
+  "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/v1.0.4",
+  "releaseTag": "v1.0.4"
 }
