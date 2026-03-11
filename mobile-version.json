@@ -1,0 +1,11 @@
+{
+  "version": "1.0.7",
+  "versionCode": 10007,
+  "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/mobile-v1.0.7/mi-player-mobile.apk",
+  "sha256": "4bcd77410857c99193711135a773d77c99e8d0f0beb7503bc845c19df26c4446",
+  "mandatory": false,
+  "notes": "chore: remove tracked backup snapshots",
+  "publishedAt": "2026-03-11T16:04:48Z",
+  "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/mobile-v1.0.7",
+  "releaseTag": "mobile-v1.0.7"
+}
