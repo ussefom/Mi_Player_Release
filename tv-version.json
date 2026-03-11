@@ -1,0 +1,11 @@
+{
+  "version": "1.0.7",
+  "versionCode": 10007,
+  "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/tv-v1.0.7/mi-player-tv.apk",
+  "sha256": "a0cc2a653b7fb06681b85b07dbcb314a8a2b42c691b3c0b1d82b2542174e2eb1",
+  "mandatory": false,
+  "notes": "chore: remove tracked backup snapshots",
+  "publishedAt": "2026-03-11T16:04:17Z",
+  "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/tv-v1.0.7",
+  "releaseTag": "tv-v1.0.7"
+}
