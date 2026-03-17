@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "versionCode": 10009,
-  "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/tv-v1.0.9/mi-player-tv.apk",
-  "sha256": "49f7fc145a64b14a472cac4f6bc70bcfce7dc3f43e8faad74936347ae4a091be",
+  "version": "1.0.10",
+  "versionCode": 10010,
+  "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/tv-v1.0.10/mi-player-tv.apk",
+  "sha256": "daee7815ff3b3ede7636382aa790e9759729cb5b1eb8908c3de327ba9c45346d",
   "mandatory": false,
-  "notes": "fix(ci): install cordova before target activation",
-  "publishedAt": "2026-03-16T13:38:40Z",
-  "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/tv-v1.0.9",
-  "releaseTag": "tv-v1.0.9"
+  "notes": "chore(release): bump app version to 1.0.10",
+  "publishedAt": "2026-03-17T13:00:05Z",
+  "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/tv-v1.0.10",
+  "releaseTag": "tv-v1.0.10"
 }
