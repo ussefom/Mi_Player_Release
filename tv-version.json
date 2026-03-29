@@ -1,11 +1,11 @@
 {
-  "version": "3.0.2",
-  "versionCode": 30002,
-  "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/tv-v3.0.2/mi-player-tv.apk",
-  "sha256": "5c3f0272fc2aac57a470bda48c87fb16ae2cbd6dc773f50e346002cb14cbfcb5",
+  "version": "3.0.3",
+  "versionCode": 30003,
+  "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/tv-v3.0.3/mi-player-tv.apk",
+  "sha256": "21a583b73c5f7e7de593da714fe5f949cf484b7c8332348890cfbcd215ae9c43",
   "mandatory": false,
-  "notes": "chore: bump app version to 3.0.2",
-  "publishedAt": "2026-03-29T15:47:54Z",
-  "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/tv-v3.0.2",
-  "releaseTag": "tv-v3.0.2"
+  "notes": "chore: bump app version to 3.0.3",
+  "publishedAt": "2026-03-29T16:43:15Z",
+  "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/tv-v3.0.3",
+  "releaseTag": "tv-v3.0.3"
 }
