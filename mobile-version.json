@@ -1,11 +1,11 @@
 {
-  "version": "3.0.2",
-  "versionCode": 30002,
-  "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/mobile-v3.0.2/mi-player-mobile.apk",
-  "sha256": "c1149b8a98243b90fa36a69339111b3a3cad437fa4c0fc92a64f9adc7c7de3af",
+  "version": "3.0.3",
+  "versionCode": 30003,
+  "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/mobile-v3.0.3/mi-player-mobile.apk",
+  "sha256": "c8b415b3478209dc6017a10b2d0d9f5e65546ed1d0925a105715d6ef84aa12d0",
   "mandatory": false,
-  "notes": "chore: bump app version to 3.0.2",
-  "publishedAt": "2026-03-29T15:48:15Z",
-  "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/mobile-v3.0.2",
-  "releaseTag": "mobile-v3.0.2"
+  "notes": "chore: bump app version to 3.0.3",
+  "publishedAt": "2026-03-29T16:43:29Z",
+  "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/mobile-v3.0.3",
+  "releaseTag": "mobile-v3.0.3"
 }
