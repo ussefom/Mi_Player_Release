@@ -4,7 +4,7 @@
   "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/mobile-v6.0.0/mi-player-mobile.apk",
   "sha256": "75499c17b45b52172ebc686d104b849b208fb5f28209b0d13501f304c370df48",
   "mandatory": false,
-  "notes": "chore(release): bump app to 6.0.0",
+  "notes": "Mi Player Mobile 6.0.0\n\n- Añade Movistar PR con CustomData firmado y reproducción mediante PRD/ClearKey.\n- Mejora la integración de perfiles, catálogos y metadatos de licencia.\n- Incluye mejoras de estabilidad y compatibilidad de reproducción.",
   "publishedAt": "2026-08-09T01:52:37Z",
   "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/mobile-v6.0.0",
   "releaseTag": "mobile-v6.0.0"
