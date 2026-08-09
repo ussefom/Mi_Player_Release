@@ -4,7 +4,7 @@
   "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/tv-v6.0.1/mi-player-tv.apk",
   "sha256": "2a99a7eb4a8fa9451b67741c4b387f7d0a3eb4d9360b366ad9df84685ae6cb63",
   "mandatory": false,
-  "notes": "chore(release): bump app to 6.0.1",
+  "notes": "Mi Player TV 6.0.1\n\n- Actualización de prueba para validar el sistema de actualización desde la versión 6.0.0.",
   "publishedAt": "2026-08-09T02:20:54Z",
   "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/tv-v6.0.1",
   "releaseTag": "tv-v6.0.1"
