@@ -1,11 +1,11 @@
 {
-  "version": "6.0.0",
-  "versionCode": 60000,
-  "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/tv-v6.0.0/mi-player-tv.apk",
-  "sha256": "52428c709205f3a714272049c41b0f6fd1991ce37e160305d32c036baca70326",
+  "version": "6.0.1",
+  "versionCode": 60001,
+  "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/tv-v6.0.1/mi-player-tv.apk",
+  "sha256": "2a99a7eb4a8fa9451b67741c4b387f7d0a3eb4d9360b366ad9df84685ae6cb63",
   "mandatory": false,
-  "notes": "Mi Player TV 6.0.0\n\n- Añade Movistar PR con CustomData firmado.\n- Fuerza PRD/ClearKey para movistar_pr, evitando la ruta PlayReady OEM sin vídeo visible.\n- Mantiene accesible la importación PRD y mejora los diagnósticos de reproducción.",
-  "publishedAt": "2026-08-09T01:58:43Z",
-  "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/tv-v6.0.0",
-  "releaseTag": "tv-v6.0.0"
+  "notes": "chore(release): bump app to 6.0.1",
+  "publishedAt": "2026-08-09T02:20:54Z",
+  "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/tv-v6.0.1",
+  "releaseTag": "tv-v6.0.1"
 }
