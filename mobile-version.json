@@ -4,7 +4,7 @@
   "apkUrl": "https://github.com/ussefom/Mi_Player_Release/releases/download/mobile-v6.0.1/mi-player-mobile.apk",
   "sha256": "37a29dbcf1d1d1f7522ba5629955de61bccd1783b4b69f2fd061959bcba6e53c",
   "mandatory": false,
-  "notes": "chore(release): bump app to 6.0.1",
+  "notes": "Mi Player Mobile 6.0.1\n\n- Actualización de prueba para validar el sistema de actualización desde la versión 6.0.0.",
   "publishedAt": "2026-08-09T02:15:53Z",
   "releaseUrl": "https://github.com/ussefom/Mi_Player_Release/releases/tag/mobile-v6.0.1",
   "releaseTag": "mobile-v6.0.1"
